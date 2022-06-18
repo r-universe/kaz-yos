@@ -1,0 +1,10 @@
+[
+  {
+    "package": "regmedint",
+    "oncran": true
+  },
+  {
+    "package": "tableone",
+    "oncran": true
+  }
+]
